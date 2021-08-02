@@ -1,0 +1,128 @@
+A_Sequence         1 TTCACCAGACAAATCCCAATAACTTAATTATTGGGATTTGTTATATATAA     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence         1 TTCACCAGACAAATCCCAATAACTTAATTATTGGGATTTGTTATATATAA     50
+
+A_Sequence        51 CTTTATAAATTCCTAAAATTACACAAAGTTAATAACTGCGAGCATGGTCA    100
+                     |||||||||||||||||||||||||||||||||||||| |||||||||||
+B_Sequence        51 CTTTATAAATTCCTAAAATTACACAAAGTTAATAACTGTGAGCATGGTCA    100
+
+A_Sequence       101 TATTTTTATCAATAGCGCATTGCTATTTTCTCTGCACGCAATTAAATTAA    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       101 TATTTTTATCAATAGCGCATTGCTATTTTCTCTGCACGCAATTAAATTAA    150
+
+A_Sequence       151 TTTCCGAACCTGGATGTTCGTTATAAAAACCATTAATAAATGACTGGATT    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       151 TTTCCGAACCTGGATGTTCGTTATAAAAACCATTAATAAATGACTGGATT    200
+
+A_Sequence       201 GTTACTGCATTCGCAGGCAAAACCTGACATAACCAGAGAATACTGGTGAA    250
+                     ||||||||||||||||||                                
+B_Sequence       201 GTTACTGCATTCGCAGGC--------------------------------    218
+
+A_Sequence       251 GTCGGGTTTTTTTGTTTATAAAAAAGGTCCTTGCTATGAACATGCAAATC    300
+                               ||||||||||||||||||||||||||||||||||||||||
+B_Sequence       219 ----------TTTGTTTATAAAAAAGGTCCTTGCTATGAACATGCAAATC    258
+
+A_Sequence       301 ACCAAAATTCTCAACAATAATGTTGTGGTGGTTATTGATGATCAACAGCG    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       259 ACCAAAATTCTCAACAATAATGTTGTGGTGGTTATTGATGATCAACAGCG    308
+
+A_Sequence       351 GGAAAAAGTCGTCATGGGGCGCGGAATTGGCTTTCAAAAACGCGCTGGCG    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       309 GGAAAAAGTCGTCATGGGGCGCGGAATTGGCTTTCAAAAACGCGCTGGCG    358
+
+A_Sequence       401 AAAGAATTAACTCAAGTGGAATAGAAAAAGAGTATGCCTTGAGCAGTCAT    450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       359 AAAGAATTAACTCAAGTGGAATAGAAAAAGAGTATGCCTTGAGCAGTCAT    408
+
+A_Sequence       451 GAACTGAACGGGCGATTAAGCGAACTCTTAAGTCATATTCCTCTTGAGGT    500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       409 GAACTGAACGGGCGATTAAGCGAACTCTTAAGTCATATTCCTCTTGAGGT    458
+
+A_Sequence       501 GATGGCAACCTGTGATCGTATTATCTCTTTAGCGCAGGAGCGCTTGGGAA    550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       459 GATGGCAACCTGTGATCGTATTATCTCTTTAGCGCAGGAGCGCTTGGGAA    508
+
+A_Sequence       551 AATTACAGGACAGTATTTATATCTCGCTAACTGACCATTGCCAGTTTGCG    600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       509 AATTACAGGACAGTATTTATATCTCGCTAACTGACCATTGCCAGTTTGCG    558
+
+A_Sequence       601 ATTAAACGCTTTCAGCAAAACGTGTTGCTGCCCAACCCGTTGCTGTGGGA    650
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       559 ATTAAACGCTTTCAGCAAAACGTGTTGCTGCCCAACCCGTTGCTGTGGGA    608
+
+A_Sequence       651 TATCCAGCGGCTTTACCCGAAAGAGTTCCAGCTAGGGGAAGAAGCGTTAA    700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       609 TATCCAGCGGCTTTACCCGAAAGAGTTCCAGCTAGGGGAAGAAGCGTTAA    658
+
+A_Sequence       701 CCATTATTGATAAACGGTTGGGCGTGCAGTTACCGAAAGATGAAGTGGGC    750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       659 CCATTATTGATAAACGGTTGGGCGTGCAGTTACCGAAAGATGAAGTGGGC    708
+
+A_Sequence       751 TTTATTGCCATGCATCTGGTCAGTGCCCAAATGAGCGGAAATATGGAGGA    800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       709 TTTATTGCCATGCATCTGGTCAGTGCCCAAATGAGCGGAAATATGGAGGA    758
+
+A_Sequence       801 TGTTGCAGGTGTCACGCAGTTAATGCGCGAAATGCTGCAATTAATAAAAT    850
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       759 TGTTGCAGGTGTCACGCAGTTAATGCGCGAAATGCTGCAATTAATAAAAT    808
+
+A_Sequence       851 TTCAGTTCAGCCTTAATTACCAGGAAGAAAGCTTGAGTTATCAGCGACTG    900
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       809 TTCAGTTCAGCCTTAATTACCAGGAAGAAAGCTTGAGTTATCAGCGACTG    858
+
+A_Sequence       901 GTTACACATCTGAAGTTTTTATCCTGGCGTATTCTTGAACATGCTTCAAT    950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       859 GTTACACATCTGAAGTTTTTATCCTGGCGTATTCTTGAACATGCTTCAAT    908
+
+A_Sequence       951 TAACGATAGTGATGAATCATTACAACAAGCAGTAAAACAAAATTACCCGC   1000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       909 TAACGATAGTGATGAATCATTACAACAAGCAGTAAAACAAAATTACCCGC    958
+
+A_Sequence      1001 AAGCATGGCAATGTGCGGAACGGATCGCCATTTTTATTGGTTTGCAGTAT   1050
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence       959 AAGCATGGCAATGTGCGGAACGGATCGCCATTTTTATTGGTTTGCAGTAT   1008
+
+A_Sequence      1051 CAACGTAAAATTTCACCCGCAGAGATTATGTTTTTAGCCATAAATATAGA   1100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence      1009 CAACGTAAAATTTCACCCGCAGAGATTATGTTTTTAGCCATAAATATAGA   1058
+
+A_Sequence      1101 GCGCGTGCGCAAAGAACACTGAAATATTATTACTGAGTAAAGGATTGTTA   1150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence      1059 GCGCGTGCGCAAAGAACACTGAAATATTATTACTGAGTAAAGGATTGTTA   1108
+
+A_Sequence      1151 CCGCACTAAGCGGGCAAAACCTGAAAAAAATTGCTTGATTCACGTCAGGC   1200
+                     |||||||||||||||                                   
+B_Sequence      1109 CCGCACTAAGCGGGC-----------------------------------   1123
+
+A_Sequence      1201 CGTTTTTTTCAGGTTTTTTTTTGGAGTTTTGCCGCAAAGCGGTAGAGGGC   1250
+                                    |||||||||||||||||||||||||||||||||||
+B_Sequence      1124 ---------------TTTTTTTGGAGTTTTGCCGCAAAGCGGTAGAGGGC   1158
+
+A_Sequence      1251 AAGTTATGACGGAGTTAGCCAGAAAAATAGTCGCAGGAGTCGGGGGCGCA   1300
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence      1159 AAGTTATGACGGAGTTAGCCAGAAAAATAGTCGCAGGAGTCGGGGGCGCA   1208
+
+A_Sequence      1301 GATAACATTGTGAGTCTGATGCATTGCGCAACGCGATTACGTTTTAAATT   1350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence      1209 GATAACATTGTGAGTCTGATGCATTGCGCAACGCGATTACGTTTTAAATT   1258
+
+A_Sequence      1351 AAAGGATGAAAGCAAAGCGCAAGCAGAGGTACTGAAAAAGACCCCCGGTA   1400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence      1259 AAAGGATGAAAGCAAAGCGCAAGCAGAGGTACTGAAAAAGACCCCCGGTA   1308
+
+A_Sequence      1401 TTATTATGGTGGTGGAAAGCGGTGGCCAGTTTCAGGTGGTCATAGGTAAC   1450
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence      1309 TTATTATGGTGGTGGAAAGCGGTGGCCAGTTTCAGGTGGTCATAGGTAAC   1358
+
+A_Sequence      1451 CATGTGGCCGATGTCTTCCTGGCGGTTAACAGTGTGGCAGGCCTTGACGA   1500
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence      1359 CATGTGGCCGATGTCTTCCTGGCGGTTAACAGTGTGGCAGGCCTTGACGA   1408
+
+A_Sequence      1501 AAAAGCGCAACAGGCACCGGAAAATGATGATAAAGGTAATCTGCTAAACC   1550
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+B_Sequence      1409 AAAAGCGCAACAGGCACCGGAAAATGATGATAAAGGTAATCTGCTAAACC   1458
+
+A_Sequence      1551 GCTTTGTTTA   1560
+                     ||||||||||
+B_Sequence      1459 GCTTTGTTTA   1468
+
